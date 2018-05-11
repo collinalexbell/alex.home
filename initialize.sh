@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt instll emacs vim
+sudo apt instll emacs vim sbcl
