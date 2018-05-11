@@ -1,4 +1,7 @@
+(defpackage "ALEX.BEING"
+  (:use "COMMON-LISP"))
 
+(in-package :alex.being)
 
 (defparameter *daemon-name* "Alexander Taggart")
 (defparameter *human-name* "Collin Alexander Bell")
